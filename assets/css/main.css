@@ -3408,7 +3408,7 @@ input, select, textarea {
 	    -moz-transition-delay: 0.75s;
 	    -webkit-transition-delay: 0.75s;
 	    -ms-transition-delay: 0.75s;
-	    transition-delay: 0.75s;
+	    transition-delay: 0s;
 	    pointer-events: none;
 	    background-color: #242943;
 	    content: '';
